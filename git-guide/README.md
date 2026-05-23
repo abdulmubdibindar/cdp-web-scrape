@@ -92,3 +92,5 @@ Berikut adalah rangkuman perintah Git dasar yang akan membantu Anda mendokumenta
 *(Tulis di sini jika Anda ingin berdiskusi atau menanyakan perintah Git tertentu)*
 
 1. [Contoh] Bagaimana cara menghubungkan repositori lokal ini ke akun GitHub saya?
+2. Bagaimana cara menyatukan perubahan `.gitignore` (penambahan slash) ke commit sebelumnya?
+   * *Jawaban:* Panduan detail langkah-langkahnya sudah ditulis di berkas [amend-commit.md](file:///C:/Users/LENOVO/cdp-web-scrape/git-guide/amend-commit.md). Silakan diikuti dan dijalankan sendiri di terminal Anda.
