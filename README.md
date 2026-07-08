@@ -9,11 +9,11 @@ Repository ini dirancang untuk mendokumentasikan dan memfasilitasi replikasi ser
 Untuk menjalankan atau mereproduksi project ini, Anda perlu menyiapkan lingkungan kerja baik secara offline (lokal) maupun online (cloud).
 
 ### A. Prasyarat Offline (Lingkungan Lokal)
-*   **Python 3.8+**: Bahasa pemrograman utama untuk menjalankan skrip scraping.
 *   **Google Chrome**: Browser Google Chrome asli terinstal di komputer lokal Anda.
-*   **Package & Environment Manager (Opsional, sangat direkomendasikan):**
+*   **Package & Environment Manager Python:**
     *   [Conda](https://docs.conda.io/): Untuk membuat environment terisolasi yang stabil.
     *   [uv](https://github.com/astral-sh/uv): Package manager Python alternatif yang sangat cepat untuk menginstal dependensi.
+*   **Python 3.8+**: Bahasa pemrograman utama untuk menjalankan skrip scraping. Biasanya akan terinstal bersamaan dengan Conda.
 *   **AI Developer Tools (Opsional):**
     *   Program asisten AI seperti **Antigravity CLI**, **Claude Code**, atau **Codex** untuk memandu jalannya eksekusi, modifikasi kode, maupun porting skrip ke website target baru.
 
