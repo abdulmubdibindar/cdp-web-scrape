@@ -1,0 +1,1 @@
+Baca [GEMINI.md](/GEMINI.md) untuk mengetahui apa yang harus dilakukan dan bagaimana melakukannya.
